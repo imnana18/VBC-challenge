@@ -132,3 +132,4 @@ Sub initHeader()
     Range("P1").Value = "Ticker"
     Range("Q1").Value = "Value"
 End Sub
+
